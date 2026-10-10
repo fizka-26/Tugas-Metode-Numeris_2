@@ -1,1 +1,0 @@
-# Tugas-Metode-Numeris_2
